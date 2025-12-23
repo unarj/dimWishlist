@@ -1,5 +1,5 @@
 title:arJUna's personal list
-description:for when the popular lists lag too far behind
+description:for when the popular lists lag too far behind, from blueberries.gg
 
 //notes:Fimbulwinter Stitch|tags:god-pve
 dimwishlist:item=3685829362&perks=1124871858,1065371964,65604327,717070634
