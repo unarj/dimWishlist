@@ -1,5 +1,5 @@
-title:arJUna's personal list
-description:for when the popular lists lag too far behind
+title:arJUna's minimal list
+description:only items the popular lists lag too far behind with
 
 // Eighty-Six
 //notes: god-pve|tags:god-pve
