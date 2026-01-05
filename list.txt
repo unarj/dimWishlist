@@ -1,7 +1,8 @@
 title:arJUna's personal list
 description:for when the popular lists lag too far behind
 
-//notes:Eighty-Six|tags:god-pve
+// Eighty-Six
+//notes: god-pvp|tags:god-pvp
 dimwishlist:item=2344383760&perks=3666208348,269888150,1749209109,1089671869
 
 //notes:Evening SI4|tags:god-pve
